@@ -11,7 +11,7 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/list',
+      path: '/',
       name: 'event-list',
       component: EventList
     },
@@ -21,9 +21,10 @@ export default new Router({
       component: EventCreate
     },
     {
-      path: '/event/show',
+      path: '/event/:id',
       name: 'event-show',
-      component: EventShow
+      component: EventShow,
+      props: true
     }
   ]
 })
