@@ -44,6 +44,90 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "test1",
+      "description": "d1",
+      "location": "L1",
+      "date": "2019-03-01T08:57:00.000Z",
+      "time": "2:00",
+      "attendees": [],
+      "id": 8419989
+    },
+    {
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "trees",
+      "description": "plant trees",
+      "location": "forest",
+      "date": "2019-03-01T10:49:00.000Z",
+      "time": "2:00",
+      "attendees": [],
+      "id": 8419990
+    },
+    {
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "test",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "id": 8419991
+    },
+    {
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "test2",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "id": 8419992
+    },
+    {
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "house",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": [],
+      "id": 8419993
+    },
+    {
+      "id": 7315053,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "science",
+      "description": "science is good",
+      "location": "class",
+      "date": "2019-03-01T11:20:00.000Z",
+      "time": "22:00",
+      "attendees": []
     }
   ]
 }
